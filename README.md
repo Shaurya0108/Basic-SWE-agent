@@ -13,6 +13,10 @@
 
 SWE-agent lets your language model of choice (e.g. GPT-4o or Claude Sonnet 3.5) autonomously use tools to:
 
+Todo:
+ - Break into building blocks
+   - Edit, search, and run commands on files
+
 * [fix issues in real GitHub repositories](https://swe-agent.com/latest/usage/hello_world),
 * perform tasks on the web,
 * find cybersecurity vulnerabilities (by solving Capture The Flag challenges), or
